@@ -12,7 +12,7 @@
 
 ## Description
 
-A VR painting experience meant as a rehabilitative tool for children with elbow or wrist injuries. As any impairment limits recreational and social activities, this tool was meant as a solution while also incorporating recommended elbow and wrist excersices for a more fun recovery!
+A VR painting experience meant as a rehabilitative tool for children with elbow or wrist injuries. As any impairment limits recreational and social activities, this tool was meant as a solution while also incorporating recommended elbow and wrist excersices, for a more fun recovery!
 
 ## Tech Stack
 
